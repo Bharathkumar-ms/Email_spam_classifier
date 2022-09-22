@@ -1,9 +1,9 @@
-# Email-SMS-Spam-Classifier-Project
+# Email Spam-Classifier
 
 ## Heroku link
 
 **click this**<br>
-[E-Mail/SMS Spam Classifier](https://email-spam-classifier-5.herokuapp.com/)
+[EMail Spam Classifier](https://email-spam-classifier-5.herokuapp.com/)
 
 
 
