@@ -22,4 +22,4 @@
 
 ### Screenshot
 
-![screenshoot](https://user-images.githubusercontent.com/84202477/191621781-1a0a05d7-cbe3-48fd-a8fe-2495aa27abde.PNG)
+![Screenshot (389)](https://user-images.githubusercontent.com/96257624/191796006-c6fd050c-197f-4860-9c8d-382ffe70ccfe.png)
